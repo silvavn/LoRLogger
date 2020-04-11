@@ -18,6 +18,6 @@ This was only tested on windows.
 The software is given "AS IT IS". There are no guarantees and by using this software you agree that you are the sole responsible for it.
 Licensed under MIT License.
 
-# What does it does?
+# What does it do?
 
 It logs your matches and your results. It also allows you to see who did you play with.
