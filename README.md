@@ -16,7 +16,7 @@ The console can be opened by pressing shift + right clicking an empty area of th
 This was only tested on windows.
 
 The software is given "AS IT IS". There are no guarantees and by using this software you agree that you are the sole responsible for it.
-Licensed under MIT License.
+Licensed under Unlicense Terms.
 
 # What does it does?
 
